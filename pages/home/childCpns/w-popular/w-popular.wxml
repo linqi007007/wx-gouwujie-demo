@@ -1,0 +1,5 @@
+<!--pages/home/childCpns/popular/w-popular.wxml-->
+<view class="popular">
+  <view style="text-align:center;margin:30rpx 0;"  >本周流行</view>
+  <image src="/assets/home/popular.jpg" mode="widthFix" style="width: 100%;"></image>
+</view>

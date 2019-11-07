@@ -93,11 +93,6 @@ Page({
     this._getGoodsData(this.data.currentType);
   },
 
-
-
-
-
-
   onPageScroll(options) {
     //取出scrollTop
     const scrollTop = options.scrollTop;
